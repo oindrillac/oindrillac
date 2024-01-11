@@ -1,0 +1,5 @@
+Applying AI to IT Operations(AIOps) is the thing of the hour. Most IT organizations generate a large amount of operations data in the process of operating their software and are beginning to embrace the adoption of AI to support IT operations. Yet, real world operations data is rarely available as a public dataset. Moreover, most AIOps tools out there are closed source.
+
+In this session, the speakers introduce AI4CI(AI for Continuous Integration), a set of open source AIOps tools involving open operations data from Kubernetes CI/CD platforms. They demonstrate a set of Jupyter Notebooks that are automated using Kubeflow Pipelines into reproducible workflows that collect data from open CI/CD data sources, calculate and visualize key performance indicator metrics, and build AI/ML services to support operations.
+
+By making the tools and relevant data openly accessible, AI4CI aims to cultivate an open source community that fosters collaboration between data scientists and DevOps engineers.
