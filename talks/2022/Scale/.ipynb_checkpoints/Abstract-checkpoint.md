@@ -1,7 +1,0 @@
-Regardless of your technical roles or interests, adding the tools of data science can help you do more. Systems administrators, analysts, developers, technical support specialists, tech writers, and others have tasks that can be machine learning (ML) workloads, which can then be put in a cloud environment in an end-to-end ML workflow. But what exactly does that mean?
-
-In this workshop you'll use data science tools hands-on to build an AI-driven development and operations tool chain (AIOps) in the Operate First community cloud that lets you automate software testing, integration, and deployment (CI/CD). This gives you a grounding in a practical need – the growing use of CI/CD – and the skills to experiment with other data sources and outcomes. Bring your own laptop. 
-
-This all-day workshop is divided into three hours in the morning and three hours after lunch. The morning session covers essential concepts and activities, including setting-up the browser-based data science environment for the afternoon session’s activities. The afternoon focuses on creating the AIOps tool from scratch on the Operate First community cloud and learning how to move your AI workloads to this cloud.
-
-You do not need to be familiar with these tools for this workshop, and you should have around an intermediate level of comfort with technology and learning new technical concepts.
