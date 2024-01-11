@@ -51,22 +51,22 @@
 
 -  `Open Source Summit Europe Dublin 2022` (September 13)
     - `Uncovering Community and Project Insights Through Data Driven Methods` by Oindrilla Chatterjee
-       - [abstract](./talks/2022/OSSEU/Abstract1.md)
-       - [presentation](./talks/2022/OSSEU/UncoveringProjectandCommunityInsightsUsingDataDrivenMethods.pdf)
-       - [video](https://youtu.be/V0AbQpAmN6w?si=WpKPIKj-v1whnGxC)
+        - [abstract](./talks/2022/OSSEU/Abstract1.md)
+        - [presentation](./talks/2022/OSSEU/UncoveringProjectandCommunityInsightsUsingDataDrivenMethods.pdf)
+        - [video](https://youtu.be/V0AbQpAmN6w?si=WpKPIKj-v1whnGxC)
     - `Open Source Ops Fast Track with Operate First` by Oindrilla Chatterjee and Marcel Hild
-       - [abstract](./talks/2022/OSSEU/Abstract2.md)
-       - [presentation](./talks/2022/OSSEU/OpenSourceFastTrackwithOperateFirst.pdf)
-       - [video](https://youtu.be/qGXUtetVIjw?si=rNCNt8DnCd1HdF52)
+        - [abstract](./talks/2022/OSSEU/Abstract2.md)
+        - [presentation](./talks/2022/OSSEU/OpenSourceFastTrackwithOperateFirst.pdf)
+        - [video](https://youtu.be/qGXUtetVIjw?si=rNCNt8DnCd1HdF52)
 
 -  `Red Hat Data Science Day Atlanta 2022` (September 22)
     -  `Using AIOps to Speed up CI/CD processes` by Oindrilla Chatterjee and Aakanksha Duggal
-       -  [abstract](./talks/2022/RHAIDay/Abstract.md)
-       -  [presentation](./talks/2022/RHAIDay/AI4CI-DataScienceDay.pdf)
+        -  [abstract](./talks/2022/RHAIDay/Abstract.md)
+        -  [presentation](./talks/2022/RHAIDay/AI4CI-DataScienceDay.pdf)
     
 -  `BU Spark Tech Wednesdays Boston University` (October 26)
     - `How to build your tech resume Workshop` by Oindrilla Chatterjee
-       - [presentation](./talks/2022/BUSpark/SparkResumeTechTalk.pdf)
+        - [presentation](./talks/2022/BUSpark/SparkResumeTechTalk.pdf)
 
 
 ## 2021
@@ -91,8 +91,8 @@
      
 - `NVIDIA GTC Virtual` (November 8-11):
    - `Data Science Model Life Cycle Explained` by Oindrilla Chatterjee, Isabel Zimmerman, Hema Veeradhi, Selbi Nuryyeva, Diane Mueller
-       - [abstract](./talks/2021/NVIDIAGTC/Abstract.md)
-       - [presentation](./talks/2021/NVIDIAGTC/NVIDIA_GTC_Slides.pdf)
+        - [abstract](./talks/2021/NVIDIAGTC/Abstract.md)
+        - [presentation](./talks/2021/NVIDIAGTC/NVIDIA_GTC_Slides.pdf)
 
 
 ## 2019
