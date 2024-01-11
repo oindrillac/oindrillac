@@ -12,7 +12,7 @@
     - `Uncovering New Open Source Communities Graphically` by Oindrilla Chatterjee and Hema Veeradhi
         - [abstract](./talks/2023/DevConfCZ/Abstract.md)
         - [presentation](./talks/2023/DevConfCZ/NetworkAnalysisforOpenSourceCommunities.pdf)
-        - [video](https://youtu.be/iLG8ZtRCjio?si=2Ec5Sn1RmKwE6uKq)
+        - [video](https://youtu.be/jaWNTyQo2z4?si=NASfepsW_tBAfsCB)
 
 ## 2022
 
