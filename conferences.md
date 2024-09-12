@@ -13,6 +13,11 @@
         - [abstract](./talks/2023/DevConfCZ/Abstract.md)
         - [presentation](./talks/2023/DevConfCZ/NetworkAnalysisforOpenSourceCommunities.pdf)
         - [video](https://youtu.be/jaWNTyQo2z4?si=NASfepsW_tBAfsCB)
+          
+- `Women in Tech Tufts 23` (Sep 23):
+    - `Panel on Data Science` Oindrilla Chatterjee, Bhumika Punjabi, Lydia Yu, Kimberly Llajaruna Peralta 
+        - [linkedIn post](https://www.linkedin.com/posts/bhumikapunjabi2294_womenintech-datascience-bigdata-activity-7112981753069240321-MzjO?utm_source=share&utm_medium=member_desktop)
+        - [speakers list](https://tuftswit2023.wixsite.com/home/speakers)    
 
 ## 2022
 
