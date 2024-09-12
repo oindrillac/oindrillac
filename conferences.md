@@ -1,5 +1,24 @@
 # List of Conferences I presented a talk or workshop at
 
+
+## 2024
+
+- `Red Hat Summit Denver` (May 6-9)
+    - `Workshop and Booth Demos on Launch of InstructLab` by InstructLab team
+       - [blog](https://www.techtarget.com/searchenterpriseai/opinion/At-Red-Hat-Summit-2024-generative-AI-goes-open-source)
+       - [blog](https://venturebeat.com/ai/red-hat-unveils-rhel-ai-and-instructlab-to-democratize-enterprise-ai/)
+         
+- `Conference on Automation Expo Mumbai` (Aug 22)
+    - `Digitalization, Data Analytics & AI in Gas Analytics` by Oindrilla Chatterjee
+        - [speakers](https://www.automationindiaexpo.com/conference-on-process-automation)
+        - [presentation](.talks/2024/AutomationExpo/Automation_Exhibition_Talk_on_Digitization_2024_Oindrilla.pdf)
+        - [linkedIn post](https://www.linkedin.com/posts/automation-india-expo_automationexpo2024-industrialautomation-technology-activity-7224777826619510786-C0AP?utm_source=share&utm_medium=member_desktop)
+  
+- `IEEE Teacher's Congress Goa` (Aug)
+    - `Generative AI and its Ethical Implications` by Oindrilla Chatterjee
+        - [presentation](.talks/2024/IEEE/Generative_AI_and_Ethical_implications.pdf)
+        - [linkedIn post](https://www.linkedin.com/posts/oindrilla-chatterjee_i-had-the-privilege-of-presenting-on-generative-activity-7236070940982317056-h6rI?utm_source=share&utm_medium=member_desktop)
+  
 ## 2023
 
 - `Open Source Summit Vancouver` (May 12):
