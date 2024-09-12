@@ -14,7 +14,7 @@
         - [presentation](.talks/2024/AutomationExpo/Automation_Exhibition_Talk_on_Digitization_2024_Oindrilla.pdf)
         - [linkedIn post](https://www.linkedin.com/posts/automation-india-expo_automationexpo2024-industrialautomation-technology-activity-7224777826619510786-C0AP?utm_source=share&utm_medium=member_desktop)
   
-- `IEEE Teacher's Congress Goa` (Aug)
+- `IEEE Teacher's Congress Goa` (Aug 30)
     - `Generative AI and its Ethical Implications` by Oindrilla Chatterjee
         - [presentation](.talks/2024/IEEE/Generative_AI_and_Ethical_implications.pdf)
         - [linkedIn post](https://www.linkedin.com/posts/oindrilla-chatterjee_i-had-the-privilege-of-presenting-on-generative-activity-7236070940982317056-h6rI?utm_source=share&utm_medium=member_desktop)
